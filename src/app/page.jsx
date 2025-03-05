@@ -41,7 +41,7 @@ import {ParticleBackground} from "@/components/ParticleBg"
 import {TestimonialCard} from "@/components/Testimonial"
 import {TimelineItem} from "@/components/Timeline"
 import {MouseFollowLight} from "@/components/MouseFollowLight"
-import {FAQItem} from "@/components/FAQ"
+import {FAQItem} from "@/components/Faq"
 
 import TeamSection from "@/components/TeamSection"
 import { Globe } from "@/components/magicui/globe"
